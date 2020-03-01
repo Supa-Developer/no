@@ -1,0 +1,45 @@
+.navbar-light .navbar-nav .nav-link {
+    color: white;
+}
+.navbar-light:hover .navbar-nav:hover .nav-link:hover {
+    color: white;
+}
+
+.navbar-light .navbar-brand {
+    color: white;
+    font-size: 2rem;
+}
+.navbar-light:hover .navbar-brand:hover {
+    color: white;
+}
+
+.navbar-toggler {
+    background-color: white;
+}
+
+@media (max-width: 768px){
+.navbar-collapse {
+    background-color: #343a40!important;
+}
+.navbar-light .navbar-nav .nav-link {
+color: white;
+}
+.navbar-light:hover .navbar-nav:hover .nav-link:hover {
+   color: white;
+}
+}
+
+body {
+    padding-top: 70px;
+    padding-bottom: 570px;
+    color: white;
+}
+
+audio {
+    width: 50%;
+    float: left;
+    margin-left: 25%;
+    margin-right: 25%;
+    position: relative;
+    top: 20px;
+}
